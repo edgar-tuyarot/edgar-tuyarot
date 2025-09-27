@@ -11,7 +11,7 @@ Soy emprendedor y desarrollador en formación, me especializo en Java, Maven y P
 ## 🧱 Proyectos destacados
 
 - [Gestion Pizzería Java](https://github.com/edgar-tuyarot/gestion-pizzeria-java): Aaplicacion de consola con SQLite
-- [API Pizzeria Java](https://github.com/edgar-tuyarot/pizzeria-api): Backend para gestión de pedidos y productos.
+- [API Pizzeria Java](https://github.com/edgar-tuyarot/pizzeria-springboot): Backend para gestión de pedidos y productos.
 
 ## 🎯 Objetivo
 
