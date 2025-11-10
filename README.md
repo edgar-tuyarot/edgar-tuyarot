@@ -8,11 +8,6 @@ Soy emprendedor y desarrollador en formación, me especializo en Java, Maven y P
 - PostgreSQL | SQL
 - HTML | CSS | JavaScript
 
-## 🧱 Proyectos destacados
-
-- [Gestion Pizzería Java](https://github.com/edgar-tuyarot/gestion-pizzeria-java): Aaplicacion de consola con SQLite
-- [API Pizzeria Java](https://github.com/edgar-tuyarot/pizzeria-springboot): Backend para gestión de pedidos y productos.
-
 ## 🎯 Objetivo
 
 Construir soluciones tecnológicas reales, mientras desarrollo mi perfil como Fullstack Developer.
