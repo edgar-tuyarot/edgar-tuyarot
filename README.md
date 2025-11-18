@@ -1,23 +1,25 @@
-# Soy Edgar Tuyarot
+Soy Edgar Tuyarot
 
-Soy emprendedor y desarrollador en formación, me especializo en Java, Maven y PostgreSQL, y estoy migrando mis proyectos hacia Spring Boot para profesionalizar mi stack.
+Soy emprendedor y desarrollador en formación. Me especializo en Java, Spring Boot y PostgreSQL, y disfruto crear soluciones prácticas, organizadas y enfocadas en buenas prácticas de desarrollo.
 
-## 🚀 Tecnologías que uso
+🚀 Tecnologías que uso
 
-- Java | Maven | Spring Boot
-- PostgreSQL | SQL
-- HTML | CSS | JavaScript
+Java | Spring Boot
 
-## 🎯 Objetivo
+PostgreSQL | SQL
 
-Construir soluciones tecnológicas reales, mientras desarrollo mi perfil como Fullstack Developer.
+HTML | CSS | JavaScript
 
-## 📬 Contacto
+Git / GitHub
 
-📍 Argentina  
-📧 edgar.tuyarot@gmail.com  
+Linux / Bash
 
+🎯 Objetivo
 
----
+Profundizar en Java Spring Boot, Linux y Ciberseguridad para crear software más robusto, eficiente y seguro.
 
+📬 Contacto
+
+📍 Argentina
+📧 edgar.tuyarot@gmail.com
 
